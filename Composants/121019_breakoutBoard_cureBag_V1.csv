@@ -1,0 +1,20 @@
+Id;Designator;Package;Quantity;Designation;Manufacturer;Manufacturer Part Number
+1;REF**,REF**;MountingHole_2.1mm;2;MountingHole_2.1mm;;
+2;BT1;PinHeader_1x02_P2.54mm_Vertical;1;Battery_Cell;TE Connectivity AMP Connectors;640456-2
+3;U6;Lipo_Rider_plus;1;SpeedRiderPlus;;
+4;J10;PinHeader_1x05_P2.54mm_Vertical;1;LED;Würth Elektronik;61300511121
+5;J9;PinHeader_2x04_P2.54mm_Vertical_SMD;1;GPIOs;Samtec Inc.;TSM-104-01-S-DV
+6;J6;PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right;1;UART_ESP_DEBUG;Sullins Connector Solutions;NREC002SABC-M30RC
+7;J3;PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right;1;UART_WSG_DEBUG;Sullins Connector Solutions;NREC002SABC-M30RC
+8;U3;PinHeader_1x08_P2.54mm_Horizontal;1;LIS2DS12;;
+9;U1;PinHeader_1x06_P2.54mm_Horizontal;1;GY-BME280;;
+10;U4;E73-2G4M04S-E73_2G4M04S;1;E73-2G4M04S1A;;
+11;R4,R5,R3,R2,R1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;5;100k;Panasonic;ERA-3AEB104V
+12;U5;ESP3212;1;ESP-12F;;
+13;U2;Wsg303s;1;WSG303S;;
+14;SW1;SW_SPST_EVQQ2;1;SW_Push;Panasonic;EVQ-Q2Y03W
+15;J8;Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical;1;JTAG_ESP;;
+16;J7;Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical;1;JTAG_NRF;;
+17;J4;Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical;1;JTAG_SIGFOX;;
+18;C8,C7,C6;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;3;2.2ÂµF;Murata Electronics;GRM033R60G225ME47D
+19;C5,C4,C3,C2,C1;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;5;100nF;Murata Electronics;GRM033R61A104ME15D

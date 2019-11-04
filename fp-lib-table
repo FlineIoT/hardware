@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name breakoutBoard)(type KiCad)(uri ${KIPRJMOD}/breakoutBoard.pretty)(options "")(descr ""))
+  (lib (name E73-2G4M04S)(type Legacy)(uri D:/fabian/NAS/CureBag/footprint/EAGLE-libraries/E73-2G4M04S.mod)(options "")(descr ""))
+)

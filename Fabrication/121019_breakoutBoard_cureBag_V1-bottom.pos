@@ -1,0 +1,11 @@
+### Module positions - created on 01/11/2019 11:21:44 ###
+### Printed by Pcbnew version kicad (5.1.4)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C2        100nF     C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -119.5578   -90.9180  270.0000  bottom
+C6        2.2µF    C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -119.5578   -95.2360  270.0000  bottom
+R4        100k      R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -116.3460   -88.9000  180.0000  bottom
+R5        100k      R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -118.9228  -105.6386   90.0000  bottom
+SW1       SW_Push   SW_SPST_EVQQ2                                -114.2746  -100.5840  180.0000  bottom
+## End

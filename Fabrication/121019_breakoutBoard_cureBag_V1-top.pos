@@ -1,0 +1,19 @@
+### Module positions - created on 01/11/2019 11:21:43 ###
+### Printed by Pcbnew version kicad (5.1.4)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                             PosX       PosY       Rot  Side
+C1        100nF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     146.8628  -115.2284   90.0000  top
+C3        100nF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     113.3716  -113.3094    0.0000  top
+C4        100nF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     121.2596  -106.7562   90.0000  top
+C5        100nF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     142.5194  -100.0620   90.0000  top
+C7        2.2µF          C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     144.0942  -100.0112  270.0000  top
+C8        2.2µF          C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     122.9614  -106.7816  270.0000  top
+J3        UART_WSG_DEBUG  PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right   103.8098  -111.8870    0.0000  top
+J6        UART_ESP_DEBUG  PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right   156.5402  -106.6292   90.0000  top
+J9        GPIOs           PinHeader_2x04_P2.54mm_Vertical_SMD             140.1676  -109.9820  180.0000  top
+R1        100k            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     153.1366  -108.9914   90.0000  top
+R2        100k            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     157.9372  -101.3346  270.0000  top
+R3        100k            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     155.2448  -101.0920  180.0000  top
+U4        E73-2G4M04S1A   E73-2G4M04S-E73_2G4M04S                         139.3190  -103.4212   90.0000  top
+## End
