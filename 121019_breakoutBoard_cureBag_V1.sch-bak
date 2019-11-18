@@ -59,17 +59,6 @@ F 3 "" H 2850 2550 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Breakout_Board:SpeedRiderPlus U6
-U 1 1 5DA35C4D
-P 9800 1900
-F 0 "U6" H 9921 1085 50  0000 C CNN
-F 1 "SpeedRiderPlus" H 9921 1176 50  0000 C CNN
-F 2 "breakoutBoard:Lipo_Rider_plus" H 10000 2650 50  0001 C CNN
-F 3 "" H 10000 2650 50  0001 C CNN
-	1    9800 1900
-	-1   0    0    1   
-$EndComp
-$Comp
 L Breakout_Board:LIS2DS12 U3
 U 1 1 5DA37D15
 P 3750 6500
@@ -470,12 +459,12 @@ Wire Wire Line
 $Comp
 L power:GND #PWR011
 U 1 1 5DAB23D4
-P 3350 6450
-F 0 "#PWR011" H 3350 6200 50  0001 C CNN
-F 1 "GND" V 3355 6322 50  0000 R CNN
-F 2 "" H 3350 6450 50  0001 C CNN
-F 3 "" H 3350 6450 50  0001 C CNN
-	1    3350 6450
+P 3350 6350
+F 0 "#PWR011" H 3350 6100 50  0001 C CNN
+F 1 "GND" V 3355 6222 50  0000 R CNN
+F 2 "" H 3350 6350 50  0001 C CNN
+F 3 "" H 3350 6350 50  0001 C CNN
+	1    3350 6350
 	0    1    1    0   
 $EndComp
 $Comp
@@ -779,8 +768,7 @@ F 3 "" H 3350 5750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	3350 5750 3500 5750
-Connection ~ 3350 5750
+	3350 5750 3400 5750
 Wire Wire Line
 	1600 800  1650 800 
 $Comp
@@ -1171,8 +1159,6 @@ Wire Wire Line
 Text Label 5900 850  1    50   ~ 0
 RESET_ESP
 Wire Wire Line
-	3350 5750 3350 6350
-Wire Wire Line
 	3700 5750 3800 5750
 Wire Wire Line
 	4300 2600 4600 2600
@@ -1221,4 +1207,26 @@ Wire Wire Line
 	5300 4850 6000 4850
 Wire Wire Line
 	6000 4850 6000 4650
+Wire Wire Line
+	3400 5750 3400 6150
+Wire Wire Line
+	3400 6150 3250 6150
+Wire Wire Line
+	3250 6150 3250 6450
+Wire Wire Line
+	3250 6450 3350 6450
+Connection ~ 3400 5750
+Wire Wire Line
+	3400 5750 3500 5750
+$Comp
+L Breakout_Board:SpeedRiderPlus U?
+U 1 1 5DD06363
+P 9800 1900
+F 0 "U?" H 9272 1829 50  0000 R CNN
+F 1 "SpeedRiderPlus" H 9272 1920 50  0000 R CNN
+F 2 "" H 10000 2650 50  0001 C CNN
+F 3 "" H 10000 2650 50  0001 C CNN
+	1    9800 1900
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC

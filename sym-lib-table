@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name breakoutBoard)(type Legacy)(uri ${KIPRJMOD}/breakoutBoard.lib)(options "")(descr ""))
   (lib (name Breakout_Board)(type Legacy)(uri ${KIPRJMOD}/Breakout_Board.lib)(options "")(descr ""))
+  (lib (name 121019_breakoutBoard_cureBag_V1-rescue)(type Legacy)(uri ${KIPRJMOD}/121019_breakoutBoard_cureBag_V1-rescue.lib)(options "")(descr ""))
 )
